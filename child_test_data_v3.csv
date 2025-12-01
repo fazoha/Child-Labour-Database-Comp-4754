@@ -1,0 +1,31 @@
+child_id,child_name,age,gender,parental_status,grade_level,school_id
+1,Rahim Uddin,10,Male,Both alive,4,1.0
+2,Ayesha Akter,12,Female,Single parent,6,2.0
+3,Sajid Hasan,8,Male,Both alive,2,3.0
+4,Mitu Chowdhury,15,Female,Both alive,9,4.0
+5,Shamim Hossain,11,Male,Single parent,5,5.0
+6,Farhana Yasmin,9,Female,Both alive,3,6.0
+7,Jahidul Islam,16,Male,Orphan,10,7.0
+8,Nur Nahar,7,Female,Both alive,1,8.0
+9,Alamin Sheikh,13,Male,Single parent,7,9.0
+10,Salma Khatun,14,Female,Both alive,8,11.0
+11,Mamun Mia,9,Male,Both alive,3,10.0
+12,Fatema Begum,10,Female,Single parent,4,12.0
+13,Rashidul Karim,15,Male,Orphan,9,13.0
+14,Sumi Rani,13,Female,Both alive,7,14.0
+15,Bipul Roy,17,Male,Single parent,10,15.0
+16,Nusrat Jahan,8,Female,Both alive,2,16.0
+17,Rafiul Alam,12,Male,Both alive,6,17.0
+18,Morjina Khatun,11,Female,Single parent,5,18.0
+19,Kabir Hossain,14,Male,Single parent,6,
+20,Halima Bibi,10,Female,Both alive,None,
+21,Shuvo Das,13,Male,Orphan,5,
+22,Joya Sultana,9,Female,Both alive,None,
+23,Mehedi Hasan,16,Male,Single parent,8,
+24,Priya Chakma,12,Female,Both alive,5,
+25,Tanvir Ahmed,11,Male,Both alive,4,
+26,Rina Akter,15,Female,Orphan,None,
+27,Imran Hossain,7,Male,Both alive,None,
+28,Shila Khatun,17,Female,Single parent,None,
+29,Tuhin Rahman,10,Male,Both alive,3,
+30,Samia Noor,13,Other,Single parent,7,

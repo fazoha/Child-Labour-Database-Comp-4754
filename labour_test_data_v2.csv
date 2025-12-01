@@ -1,0 +1,9 @@
+labour_id,labor_type,site_type,typical_hours_per_week,typical_wage_amount,wage_period
+1,Agricultural labour,Field,28,900.0,per week
+2,Brick kiln work,Factory,42,250.0,per day
+3,Garment helper,Factory,48,4500.0,per month
+4,Domestic help,Home,35,1800.0,per month
+5,Street vending,Street,30,700.0,per week
+6,Tea stall helper,Shop,36,220.0,per day
+7,Fishing labour,River,32,800.0,per week
+8,Construction helper,Construction,45,300.0,per day

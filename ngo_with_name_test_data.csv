@@ -1,0 +1,10 @@
+ngo_id,ngo_name,type_service,ngo_type,ngo_service,capacity,current_children,funding_source
+1,BRAC,Education,Local,Non-formal primary education and learning centers,8000,7150,International donors
+2,Save the Children in Bangladesh,Education,International,Remedial education and learning support for marginalized children,3000,2480,International donors
+3,UNICEF Bangladesh,Health,International,"Child health, WASH, and emergency health response",5000,4030,UN agencies
+4,World Vision Bangladesh,Nutrition,International,Supplementary feeding and community-based nutrition programs,2500,1890,International donors
+5,Plan International Bangladesh,Protection,International,"Child protection, case management, and safe spaces for children",1800,960,International donors
+6,ActionAid Bangladesh,Protection,International,Community-based child rights and child marriage prevention,1200,670,Mixed
+7,Directorate of Primary Education,Education,Governmental,Primary school improvement and stipend programmes,10000,10000,Government
+8,National Nutrition Services,Nutrition,Governmental,Community nutrition and growth monitoring for children,6000,4520,Government
+9,Department of Social Services Ð Child Protection Unit,Protection,Governmental,"Alternative care, child protection, and social safety nets",2200,1715,Government
