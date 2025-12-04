@@ -105,4 +105,6 @@ $rows = $stmt->fetchAll();
   </tbody>
 </table>
 
+<a href="home.php" class="btn btn-secondary mt-3">Back to Dashboard</a>
+
 <?php require 'includes/footer.php'; ?>
