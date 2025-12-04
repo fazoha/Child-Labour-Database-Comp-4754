@@ -1,7 +1,7 @@
 <?php
 // includes/header.php
 
-// simple helpers for "active" nav highlighting
+
 $currentFile = basename($_SERVER['PHP_SELF']);
 $currentTable = $_GET['table'] ?? '';
 ?>
