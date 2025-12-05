@@ -66,5 +66,24 @@ require 'includes/header.php';
   </div>
 </div>
 
+
+<!-- SQL Query Console -->
+<div class="row g-3 mb-4">
+  <div class="col-md-12">
+    <div class="card border-primary">
+      <div class="card-body text-center">
+        <h5 class="card-title">SQL Query Console</h5>
+        <p class="card-text">
+          Run any SQL query directly
+        </p>
+        <a href="sql_console.php" class="btn btn-primary">
+          Open SQL Console
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
 <?php
 require 'includes/footer.php';
